@@ -1,0 +1,1531 @@
+2016-09-29.15:26:30 :: LOG - Started
+2016-09-29.15:26:30 ::     copying file: 'C:\Users\Allan\AppData\Local\Autodesk\3dsMax\2016 - 64bit\ENU\scripts\BlippTools\assets\internal.image.white' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\internal.image.white'
+2016-09-29.15:26:30 ::     copying file: 'C:\Users\Allan\AppData\Local\Autodesk\3dsMax\2016 - 64bit\ENU\scripts\BlippTools\assets\white.png' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\white.png'
+2016-09-29.15:26:30 :: ERROR: No template found [0]. Skipping Blipp Template
+2016-09-29.15:26:30 ::     Exporter Version: 2.19
+                   ::: Export Options :::
+                    :: Asset Paths ::
+               Asset Path   : assets\
+               Source Path  : javascript\
+                    :: Blipp File Formats ::
+             Blipp Language : javascript
+              Script Format : 1
+               Mesh Version : 0
+             Mesh Precision : VERTEX16N
+             Engine Version : 23
+              Template Type : 0
+              Export Meshes : true
+               Export Scene : true
+            Export Template : true
+            Force Overwrite : false
+                    :: Geometry  ::
+        Preserve Hard Edges : true
+         Preserve Instances : true
+                  Export UV : true
+                    :: Materials ::
+           Export Materials : true
+            Export Textures : true
+       Use Dynamic Lighting : true
+    Copy Textures To Assets : true
+Split MultiMats Into Separate Meshes : false
+                    :: Lighting  ::
+              Export Lights : true
+                    :: Animation ::
+                  Scene FPS : 30
+              Playback Loop : 1
+                Sample Step : 1
+             Animation Type : 0
+                  Autostart : true
+   Export Vertex Animations : true
+     Export Path Animations : true
+      Embed Node Animations : false
+       Use TPath Animations : false
+             Bake Animation : false
+                    :: Advanced  ::
+                    Up Axis : Z-Up
+               Scale Factor : 1
+       Debug Node Positions : false
+       Open Export In Editor: false
+                File To Open: 0
+2016-09-29.15:26:30 :: SCENE - Verifying can export
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/javascript\mainScene.js"
+2016-09-29.15:26:30 :: SCENE - pre-serialize
+2016-09-29.15:26:30 :: SCENE - serialize
+2016-09-29.15:26:30 ::     exporting scene root
+2016-09-29.15:26:30 :: MATERIAL - exporting 'butons_mat'
+2016-09-29.15:26:30 :: MODEL - export 'butonFL2'
+2016-09-29.15:26:30 :: MESH - export instance: butonFL2_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\butonFL2.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: butonFL2.md2
+2016-09-29.15:26:30 ::     material exporting 'butons_mat'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\ReferenceImages\butons.png' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\butons.png'
+2016-09-29.15:26:30 :: MODEL - export 'butonFL5'
+2016-09-29.15:26:30 :: MESH - export instance: butonFL5_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\butonFL5.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: butonFL5.md2
+2016-09-29.15:26:30 ::     material exporting 'butons_mat'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'elevatorL'
+2016-09-29.15:26:30 :: MESH - export instance: elevatorL_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\elevatorL.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: elevatorL.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\elevatorL_tpath.md2"
+2016-09-29.15:26:30 ::     writing animation frames [51]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [0, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '21___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\ReferenceImages\Textures\grey.jpg' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\grey.jpg'
+2016-09-29.15:26:30 :: MODEL - export 'elevatorR'
+2016-09-29.15:26:30 :: MESH - export instance: elevatorR_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\elevatorR.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: elevatorR.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\elevatorR_tpath.md2"
+2016-09-29.15:26:30 ::     writing animation frames [51]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [0, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '21___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 ::     exporting group 'Fl01_group'
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Fl01_group_tpath.md2"
+2016-09-29.15:26:30 ::     writing animation frames [51]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [0, 1666.67]
+2016-09-29.15:26:30 :: MODEL - export 'elevatorSign_fl1'
+2016-09-29.15:26:30 :: MESH - export instance: elevatorSign_fl1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\elevatorSign_fl1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: elevatorSign_fl1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\elevatorSign_fl1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '08___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\ReferenceImages\2ndFloor.jpg' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\2ndFloor.jpg'
+2016-09-29.15:26:30 :: MODEL - export 'FloorPlane01'
+2016-09-29.15:26:30 :: MESH - export instance: FloorPlane01_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\FloorPlane01.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: FloorPlane01.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\FloorPlane01_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '07___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\ReferenceImages\diagonallines.jpg' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\diagonallines.jpg'
+2016-09-29.15:26:30 :: MODEL - export 'Foliage002'
+2016-09-29.15:26:30 :: MESH - export instance: Foliage002_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Foliage002.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Foliage002.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Foliage002_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting 'BasicElm'
+2016-09-29.15:26:30 :: ERROR: unknown material type: BasicElm(512, 0)
+2016-09-29.15:26:30 :: MODEL - export 'Icon_bookStore_fl1'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_bookStore_fl1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_bookStore_fl1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_bookStore_fl1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_bookStore_fl1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\ReferenceImages\LightGrey.jpg' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\LightGrey.jpg'
+2016-09-29.15:26:30 :: MODEL - export 'Icon_coatcheck_fl1'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_coatcheck_fl1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_coatcheck_fl1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_coatcheck_fl1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_coatcheck_fl1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_computer_fl1'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_computer_fl1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_computer_fl1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_computer_fl1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_computer_fl1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_disable_fl1'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_disable_fl1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_disable_fl1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_disable_fl1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_disable_fl1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_food_fl1'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_food_fl1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_food_fl1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_food_fl1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_food_fl1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_phone_fl1'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_phone_fl1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_phone_fl1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_phone_fl1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_phone_fl1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_question'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_question_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_question.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_question.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_question_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_table_fl1'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_table_fl1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_table_fl1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_table_fl1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_table_fl1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_theather_fl1'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_theather_fl1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_theather_fl1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_theather_fl1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_theather_fl1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_toilets_fl1'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_toilets_fl1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets_fl1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_toilets_fl1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets_fl1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_wireless_fl1'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_wireless_fl1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_wireless_fl1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_wireless_fl1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_wireless_fl1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'MainFloor01'
+2016-09-29.15:26:30 :: MESH - export instance: MainFloor01_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor01.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: MainFloor01.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor01_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'mainFloorGarden_fl1'
+2016-09-29.15:26:30 :: MESH - export instance: mainFloorGarden_fl1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\mainFloorGarden_fl1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: mainFloorGarden_fl1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\mainFloorGarden_fl1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '06___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\ReferenceImages\garden.jpg' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\garden.jpg'
+2016-09-29.15:26:30 :: MODEL - export 'number1'
+2016-09-29.15:26:30 :: MESH - export instance: number1_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\number1.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: number1.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\number1_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material wirecolor
+2016-09-29.15:26:30 :: MODEL - export 'scalator_fl001b'
+2016-09-29.15:26:30 :: MESH - export instance: scalator_fl001b_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: scalator_fl001b.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '21___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'scalator_fl001b001'
+2016-09-29.15:26:30 :: MESH - export instance: scalator_fl001b001_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b001.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: scalator_fl001b001.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b001_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '21___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'StraightStair_fl_001b'
+2016-09-29.15:26:30 :: MESH - export instance: StraightStair_fl_001b_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_001b.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: StraightStair_fl_001b.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_001b_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '21___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'StraightStair_fl_001c'
+2016-09-29.15:26:30 :: MESH - export instance: StraightStair_fl_001c_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_001c.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: StraightStair_fl_001c.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_001c_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '21___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'StraightStair_fl_01'
+2016-09-29.15:26:30 :: MESH - export instance: StraightStair_fl_01_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_01.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: StraightStair_fl_01.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_01_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '21___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MATERIAL - exporting '17___Default'
+2016-09-29.15:26:30 :: MODEL - export 'treeBush'
+2016-09-29.15:26:30 :: MESH - export instance: treeBush_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\treeBush.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: treeBush.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\treeBush_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '17___Default'
+2016-09-29.15:26:30 ::     exporting group 'Fl02_group'
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Fl02_group_tpath.md2"
+2016-09-29.15:26:30 ::     writing animation frames [51]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [0, 1666.67]
+2016-09-29.15:26:30 :: MODEL - export 'FloorPlane02'
+2016-09-29.15:26:30 :: MESH - export instance: FloorPlane02_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\FloorPlane02.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: FloorPlane02.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\FloorPlane02_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '07___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_bookStore_fl2'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_bookStore_fl2_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_bookStore_fl2.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_bookStore_fl2.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_bookStore_fl2_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_coffe_fl2'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_coffe_fl2_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_coffe_fl2.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_coffe_fl2.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_coffe_fl2_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '08___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_computer_fl2'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_computer_fl2_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_computer_fl2.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_computer_fl2.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_computer_fl2_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_question_fl2'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_question_fl2_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_question_fl2.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_question_fl2.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_question_fl2_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_toilets003'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_toilets003_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets003.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_toilets003.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets003_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_toilets_fl2'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_toilets_fl2_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets_fl2.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_toilets_fl2.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets_fl2_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '08___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_toilets_fl2b'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_toilets_fl2b_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets_fl2b.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_toilets_fl2b.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets_fl2b_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'iconGirl'
+2016-09-29.15:26:30 :: MESH - export instance: iconGirl_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\iconGirl.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: iconGirl.md2
+2016-09-29.15:26:30 ::     material exporting '24___Default'
+2016-09-29.15:26:30 ::     has opacity map
+2016-09-29.15:26:30 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\ReferenceImages\iconGirl.png' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\iconGirl.png'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'MainFloor02'
+2016-09-29.15:26:30 :: MESH - export instance: MainFloor02_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor02.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: MainFloor02.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor02_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '08___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'MainFloor02b'
+2016-09-29.15:26:30 :: MESH - export instance: MainFloor02b_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor02b.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: MainFloor02b.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor02b_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '08___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'MainFloor02c'
+2016-09-29.15:26:30 :: MESH - export instance: MainFloor02c_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor02c.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: MainFloor02c.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor02c_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '08___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'MainFloor02d'
+2016-09-29.15:26:30 :: MESH - export instance: MainFloor02d_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor02d.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: MainFloor02d.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor02d_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '08___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'MainFloor02e'
+2016-09-29.15:26:30 :: MESH - export instance: MainFloor02e_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor02e.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: MainFloor02e.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor02e_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '08___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'number2'
+2016-09-29.15:26:30 :: MESH - export instance: number2_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\number2.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: number2.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\number2_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material wirecolor
+2016-09-29.15:26:30 :: MODEL - export 'scalator_fl001b002'
+2016-09-29.15:26:30 :: MESH - export instance: scalator_fl001b002_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b002.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: scalator_fl001b002.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b002_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '21___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'StairBtn_fl2'
+2016-09-29.15:26:30 :: MESH - export instance: StairBtn_fl2_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StairBtn_fl2.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: StairBtn_fl2.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StairBtn_fl2_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '08___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'StraightStair_fl_002c'
+2016-09-29.15:26:30 :: MESH - export instance: StraightStair_fl_002c_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_002c.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: StraightStair_fl_002c.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_002c_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '21___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'StraightStair_fl_02_c'
+2016-09-29.15:26:30 :: MESH - export instance: StraightStair_fl_02_c_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_02_c.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: StraightStair_fl_02_c.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_02_c_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '21___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 ::     exporting group 'Fl03_group'
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Fl03_group_tpath.md2"
+2016-09-29.15:26:30 ::     writing animation frames [51]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [0, 1666.67]
+2016-09-29.15:26:30 :: MODEL - export 'FloorPlane03'
+2016-09-29.15:26:30 :: MESH - export instance: FloorPlane03_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\FloorPlane03.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: FloorPlane03.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\FloorPlane03_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '07___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'Icon_question_fl3'
+2016-09-29.15:26:30 :: MESH - export instance: Icon_question_fl3_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_question_fl3.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: Icon_question_fl3.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_question_fl3_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '04___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 :: MODEL - export 'MainFloor_fl300'
+2016-09-29.15:26:30 :: MESH - export instance: MainFloor_fl300_md2
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl300.md2"
+2016-09-29.15:26:30 ::     writing mesh data
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     using mesh instance: MainFloor_fl300.md2
+2016-09-29.15:26:30 ::     export path animation
+2016-09-29.15:26:30 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl300_tpath.md2"
+2016-09-29.15:26:30 :: WARN: Single frame path animation found
+2016-09-29.15:26:30 ::     writing animation frames [1]
+2016-09-29.15:26:30 ::     writing mesh header
+2016-09-29.15:26:30 :: FILE - closed
+2016-09-29.15:26:30 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:30 ::     material exporting '09___Default'
+2016-09-29.15:26:30 ::     has diffuse map
+2016-09-29.15:26:30 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\ReferenceImages\3rdFloor.png' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\3rdFloor.png'
+2016-09-29.15:26:31 :: MODEL - export 'MainFloor_fl301'
+2016-09-29.15:26:31 :: MESH - export instance: MainFloor_fl301_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl301.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: MainFloor_fl301.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl301_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '09___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'MainFloor_fl302'
+2016-09-29.15:26:31 :: MESH - export instance: MainFloor_fl302_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl302.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: MainFloor_fl302.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl302_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '09___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'MainFloor_fl303'
+2016-09-29.15:26:31 :: MESH - export instance: MainFloor_fl303_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl303.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: MainFloor_fl303.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl303_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '09___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'number3'
+2016-09-29.15:26:31 :: MESH - export instance: number3_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\number3.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: number3.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\number3_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material wirecolor
+2016-09-29.15:26:31 :: MODEL - export 'scalator_fl001b003'
+2016-09-29.15:26:31 :: MESH - export instance: scalator_fl001b003_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b003.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: scalator_fl001b003.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b003_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '21___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'StairBtn_fl3'
+2016-09-29.15:26:31 :: MESH - export instance: StairBtn_fl3_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StairBtn_fl3.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: StairBtn_fl3.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StairBtn_fl3_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '08___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'StraightStair_fl_003'
+2016-09-29.15:26:31 :: MESH - export instance: StraightStair_fl_003_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_003.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: StraightStair_fl_003.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_003_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '21___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 ::     exporting group 'Fl04_group'
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Fl04_group_tpath.md2"
+2016-09-29.15:26:31 ::     writing animation frames [51]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [0, 1666.67]
+2016-09-29.15:26:31 :: MODEL - export 'FloorPlane04'
+2016-09-29.15:26:31 :: MESH - export instance: FloorPlane04_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\FloorPlane04.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: FloorPlane04.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\FloorPlane04_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '07___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'Icon_question_fl004'
+2016-09-29.15:26:31 :: MESH - export instance: Icon_question_fl004_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_question_fl004.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: Icon_question_fl004.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_question_fl004_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '04___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'Icon_toilets004_fl004'
+2016-09-29.15:26:31 :: MESH - export instance: Icon_toilets004_fl004_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets004_fl004.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: Icon_toilets004_fl004.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets004_fl004_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '04___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'MainFloor_fl400'
+2016-09-29.15:26:31 :: MESH - export instance: MainFloor_fl400_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl400.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: MainFloor_fl400.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl400_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '10___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\ReferenceImages\4fl.png' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\4fl.png'
+2016-09-29.15:26:31 :: MODEL - export 'MainFloor_fl401'
+2016-09-29.15:26:31 :: MESH - export instance: MainFloor_fl401_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl401.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: MainFloor_fl401.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl401_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '10___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'MainFloor_fl402'
+2016-09-29.15:26:31 :: MESH - export instance: MainFloor_fl402_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl402.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: MainFloor_fl402.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl402_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '10___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'MainFloor_fl403'
+2016-09-29.15:26:31 :: MESH - export instance: MainFloor_fl403_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl403.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: MainFloor_fl403.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\MainFloor_fl403_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '10___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'number4'
+2016-09-29.15:26:31 :: MESH - export instance: number4_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\number4.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: number4.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\number4_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material wirecolor
+2016-09-29.15:26:31 :: MODEL - export 'scalator_fl001b004'
+2016-09-29.15:26:31 :: MESH - export instance: scalator_fl001b004_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b004.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: scalator_fl001b004.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b004_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '21___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'StairBtn_fl004'
+2016-09-29.15:26:31 :: MESH - export instance: StairBtn_fl004_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StairBtn_fl004.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: StairBtn_fl004.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StairBtn_fl004_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '08___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'StraightStair_fl_004'
+2016-09-29.15:26:31 :: MESH - export instance: StraightStair_fl_004_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_004.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: StraightStair_fl_004.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\StraightStair_fl_004_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '21___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 ::     exporting group 'Fl05_group'
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Fl05_group_tpath.md2"
+2016-09-29.15:26:31 ::     writing animation frames [51]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [0, 1666.67]
+2016-09-29.15:26:31 :: MODEL - export 'floor5'
+2016-09-29.15:26:31 :: MESH - export instance: floor5_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\floor5.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: floor5.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\floor5_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '11___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\ReferenceImages\5Thfloor.png' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\5Thfloor.png'
+2016-09-29.15:26:31 :: MODEL - export 'floor5b'
+2016-09-29.15:26:31 :: MESH - export instance: floor5b_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\floor5b.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: floor5b.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\floor5b_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '11___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'floor5c'
+2016-09-29.15:26:31 :: MESH - export instance: floor5c_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\floor5c.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: floor5c.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\floor5c_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '11___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'FloorPlane05'
+2016-09-29.15:26:31 :: MESH - export instance: FloorPlane05_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\FloorPlane05.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: FloorPlane05.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\FloorPlane05_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '07___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'Icon_coffe_fl003'
+2016-09-29.15:26:31 :: MESH - export instance: Icon_coffe_fl003_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_coffe_fl003.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: Icon_coffe_fl003.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_coffe_fl003_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '08___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'Icon_question_fl005'
+2016-09-29.15:26:31 :: MESH - export instance: Icon_question_fl005_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_question_fl005.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: Icon_question_fl005.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_question_fl005_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '04___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'Icon_toilets004_fl005'
+2016-09-29.15:26:31 :: MESH - export instance: Icon_toilets004_fl005_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets004_fl005.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: Icon_toilets004_fl005.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets004_fl005_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '04___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'Icon_toilets_fl005'
+2016-09-29.15:26:31 :: MESH - export instance: Icon_toilets_fl005_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets_fl005.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: Icon_toilets_fl005.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets_fl005_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '08___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'iconVanGogh'
+2016-09-29.15:26:31 :: MESH - export instance: iconVanGogh_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\iconVanGogh.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: iconVanGogh.md2
+2016-09-29.15:26:31 ::     material exporting '12___Default'
+2016-09-29.15:26:31 ::     has opacity map
+2016-09-29.15:26:31 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\ReferenceImages\iconVangogh.png' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\iconVangogh.png'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'number5'
+2016-09-29.15:26:31 :: MESH - export instance: number5_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\number5.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: number5.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\number5_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material wirecolor
+2016-09-29.15:26:31 :: MODEL - export 'scalator_fl001b005'
+2016-09-29.15:26:31 :: MESH - export instance: scalator_fl001b005_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b005.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: scalator_fl001b005.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b005_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '21___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'scalator_fl001b008'
+2016-09-29.15:26:31 :: MESH - export instance: scalator_fl001b008_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b008.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: scalator_fl001b008.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b008_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '21___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 ::     exporting group 'Fl06_group'
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Fl06_group_tpath.md2"
+2016-09-29.15:26:31 ::     writing animation frames [51]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [0, 1666.67]
+2016-09-29.15:26:31 :: MODEL - export 'FloorPlane06'
+2016-09-29.15:26:31 :: MESH - export instance: FloorPlane06_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\FloorPlane06.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: FloorPlane06.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\FloorPlane06_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '07___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'Icon_bookStore_fl006'
+2016-09-29.15:26:31 :: MESH - export instance: Icon_bookStore_fl006_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_bookStore_fl006.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: Icon_bookStore_fl006.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_bookStore_fl006_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '04___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'Icon_toilets004_fl006'
+2016-09-29.15:26:31 :: MESH - export instance: Icon_toilets004_fl006_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets004_fl006.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: Icon_toilets004_fl006.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_toilets004_fl006_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '04___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'Icon_wireless_fl006'
+2016-09-29.15:26:31 :: MESH - export instance: Icon_wireless_fl006_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_wireless_fl006.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: Icon_wireless_fl006.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Icon_wireless_fl006_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '04___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'number6'
+2016-09-29.15:26:31 :: MESH - export instance: number6_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\number6.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: number6.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\number6_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material wirecolor
+2016-09-29.15:26:31 :: MODEL - export 'Rectangle033'
+2016-09-29.15:26:31 :: MESH - export instance: Rectangle033_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Rectangle033.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: Rectangle033.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Rectangle033_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '19___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\ReferenceImages\6fl.png' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\assets\6fl.png'
+2016-09-29.15:26:31 :: MODEL - export 'Rectangle038'
+2016-09-29.15:26:31 :: MESH - export instance: Rectangle038_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Rectangle038.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: Rectangle038.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Rectangle038_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '19___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'Rectangle041'
+2016-09-29.15:26:31 :: MESH - export instance: Rectangle041_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Rectangle041.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: Rectangle041.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\Rectangle041_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '19___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'scalator_fl001b006'
+2016-09-29.15:26:31 :: MESH - export instance: scalator_fl001b006_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b006.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: scalator_fl001b006.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b006_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '21___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MODEL - export 'scalator_fl001b007'
+2016-09-29.15:26:31 :: MESH - export instance: scalator_fl001b007_md2
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b007.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: scalator_fl001b007.md2
+2016-09-29.15:26:31 ::     export path animation
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\scalator_fl001b007_tpath.md2"
+2016-09-29.15:26:31 :: WARN: Single frame path animation found
+2016-09-29.15:26:31 ::     writing animation frames [1]
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     adding path animation: [1666.67, 1666.67]
+2016-09-29.15:26:31 ::     material exporting '21___Default'
+2016-09-29.15:26:31 ::     has diffuse map
+2016-09-29.15:26:31 :: MATERIAL - exporting '22___Default'
+2016-09-29.15:26:31 :: MODEL - export 'hider'
+2016-09-29.15:26:31 :: MESH - export instance: hider_md2
+2016-09-29.15:26:31 :: WARN: No smoothing groups found 'hider'
+2016-09-29.15:26:31 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/assets\hider.md2"
+2016-09-29.15:26:31 ::     writing mesh data
+2016-09-29.15:26:31 ::     writing mesh header
+2016-09-29.15:26:31 :: FILE - closed
+2016-09-29.15:26:31 ::     using mesh instance: hider.md2
+2016-09-29.15:26:31 ::     material exporting '22___Default'
+2016-09-29.15:26:31 :: MARKER - export
+2016-09-29.15:26:31 ::     copying file: 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\markerMap.jpg' to 'S:\BlippDev\Box Sync\Global Departments\Creative\3D_US\Allan\Blipp_Dev\MOMA\JavascriptMoma\markers\marker.jpg'
+2016-09-29.15:26:32 :: SCENE - post-serialize
+2016-09-29.15:26:32 ::     serializing render bin: 1
+2016-09-29.15:26:32 ::     serializing render bin: 50
+2016-09-29.15:26:32 ::     serializing render bin: 1003
+2016-09-29.15:26:32 ::     serializing render bin: 2000
+2016-09-29.15:26:32 :: FILE - closed
+2016-09-29.15:26:32 :: PACKAGE: "Package JSON"
+2016-09-29.15:26:32 :: FILE - creating: "S:/BlippDev/Box Sync/Global Departments/Creative/3D_US/Allan/Blipp_Dev/MOMA/JavascriptMoma/javascript/package.json"
+2016-09-29.15:26:32 :: FILE - closed
+2016-09-29.15:26:32 :: SUMMARY
+# Meshes Exported              : 90 / 90
+# Materials Exported           : 3 / 4
+# Textures Copied              : 83 / 83
+# Skeletons Exported           : 0 / 0
+# Lights Exported              : 0 / 0
+# Path Animations Exported     : 91 / 91
+# Vertex Animations Exported   : 0 / 0
+# Skeletal Animations Exported : 0 / 0
+# Blipp Basic Nodes Exported   : 0 / 0
+2016-09-29.15:26:34 :: LOG - Closed
